@@ -1,0 +1,22 @@
+{
+  "name": "es6-recap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "typerscript"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maduiep/ES6-Recap.git"
+  },
+  "keywords": [
+    "ES6"
+  ],
+  "author": "Emmanuel Madu IP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maduiep/ES6-Recap/issues"
+  },
+  "homepage": "https://github.com/maduiep/ES6-Recap#readme"
+}
